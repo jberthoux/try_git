@@ -47,7 +47,7 @@ You can deploy/undeploy AuditShare menus directly from : `http://server:port/sha
 ![Module deployment](/documentation/module-deployment.png "Module deployment")
 
 
-![Header](/documentation/deleted-items.png "My deleted items")
+![User profile toolbar](/documentation/deleted-items.png "My deleted items")
 
 
 
