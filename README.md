@@ -54,8 +54,7 @@ You can deploy/undeploy AuditShare menus directly from : `http://server:port/sha
 LICENSE
 ---------------------
 
-This extension is licensed under `GNU Library or "Lesser" General Public License (LGPL)`.
-
+This extension is licensed under `GNU Library or "Lesser" General Public License (LGPL)`.  
 Created by: [Julien BERTHOUX] (https://github.com/jberthoux) and [Bertrand FOREST] (https://github.com/bforest)
 
 
