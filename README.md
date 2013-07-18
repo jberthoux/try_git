@@ -53,11 +53,14 @@ You can deploy/undeploy AuditShare menus directly from : `http://server:port/sha
 
 LICENSE
 ---------------------
-This extension is licensed under 'GNU Library or "Lesser" General Public License (LGPL)'.
+
+This extension is licensed under `GNU Library or "Lesser" General Public License (LGPL)`.
+
 Created by: [Julien BERTHOUX] (https://github.com/jberthoux) and [Bertrand FOREST] (https://github.com/bforest)
 
 
 Our company
 ---------------------
+
 [Atol Conseils et Développements] (http://www.atolcd.com) is Alfresco [Gold Partner] (http://www.alfresco.com/partners/atol)
 Follow us on twitter [ @atolcd] (https://twitter.com/atolcd)
