@@ -19,7 +19,7 @@ Before building, ensure you have edited the 'build.properties' files to set the 
 
 To build AMP files, run the following command from the base project directory:
 
-        ant prepare-package-amp
+        ant dist-amp
 
 
 Installing the module
