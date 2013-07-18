@@ -61,5 +61,5 @@ Created by: [Julien BERTHOUX] (https://github.com/jberthoux) and [Bertrand FORES
 Our company
 ---------------------
 
-[Atol Conseils et Développements] (http://www.atolcd.com) is Alfresco [Gold Partner] (http://www.alfresco.com/partners/atol)
-Follow us on twitter [ @atolcd] (https://twitter.com/atolcd)
+[Atol Conseils et Développements] (http://www.atolcd.com) is Alfresco [Gold Partner] (http://www.alfresco.com/partners/atol)  
+Follow us on twitter [ @atolcd] (https://twitter.com/atolcd)  
