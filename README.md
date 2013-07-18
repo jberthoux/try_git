@@ -42,7 +42,7 @@ Using the module
 
 #### Configuration
 This module uses latest Share 4.x extension mechanisms.
-You can deploy/undeploy AuditShare menus directly from : 'http://server:port/share/page/modules/deploy'
+You can deploy/undeploy AuditShare menus directly from : `http://server:port/share/page/modules/deploy`
 
 ![Module deployment](/documentation/module-deployment.png "Module deployment")
 
